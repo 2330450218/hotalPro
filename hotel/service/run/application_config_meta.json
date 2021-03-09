@@ -1,0 +1,286 @@
+{
+  "keys": "E:\\ysu\\graduationProject\\hotel\\service\\config\\config.default.js",
+  "multipart": {
+    "mode": "E:\\ysu\\graduationProject\\hotel\\service\\config\\config.default.js",
+    "autoFields": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "security": {
+    "csrf": {
+      "enable": "E:\\ysu\\graduationProject\\hotel\\service\\config\\config.default.js",
+      "ignoreJSON": "E:\\ysu\\graduationProject\\hotel\\service\\config\\config.default.js",
+      "type": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "mysql": {
+    "client": {
+      "host": "E:\\ysu\\graduationProject\\hotel\\service\\config\\config.default.js",
+      "port": "E:\\ysu\\graduationProject\\hotel\\service\\config\\config.default.js",
+      "user": "E:\\ysu\\graduationProject\\hotel\\service\\config\\config.default.js",
+      "password": "E:\\ysu\\graduationProject\\hotel\\service\\config\\config.default.js",
+      "database": "E:\\ysu\\graduationProject\\hotel\\service\\config\\config.default.js"
+    },
+    "default": {
+      "database": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-mysql\\config\\config.default.js",
+      "connectionLimit": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-mysql\\config\\config.default.js"
+    },
+    "app": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-mysql\\config\\config.default.js",
+    "agent": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-mysql\\config\\config.default.js"
+  },
+  "cors": {
+    "origin": "E:\\ysu\\graduationProject\\hotel\\service\\config\\config.default.js",
+    "allowMethods": "E:\\ysu\\graduationProject\\hotel\\service\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "main": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "test": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+      "dev": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+      "egg-mysql": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+      "port": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\ysu\\graduationProject\\hotel\\service\\node_modules\\egg\\config\\config.default.js"
+}

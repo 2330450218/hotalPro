@@ -1,0 +1,30 @@
+{
+  "id": "2035161",
+  "name": "vue",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12471729",
+      "name": "APP",
+      "font_class": "APP",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2865630",
+      "name": "weibo",
+      "font_class": "weibo",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "3398048",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    }
+  ]
+}
